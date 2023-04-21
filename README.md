@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on becoming the best front-end developer in the world.
+- 🌱 I’m currently learning callbacks and array methods using javascript.
+- ⚡ Fun fact: I have a lot of hobbies like crocheting and playing Animal Crossing.
 
 <!--
 **pzimero/pzimero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
