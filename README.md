@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on becoming the best front-end developer in the world.
+- 🔭 I’m currently working on becoming the best front-end developer in the world. I do small projects from time to time to help me get better. 
 - 🌱 I’m currently learning callbacks and array methods using javascript.
 - ⚡ Fun fact: I have a lot of hobbies like crocheting and playing Animal Crossing.
 
